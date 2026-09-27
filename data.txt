@@ -1,0 +1,7 @@
+hello world
+hello machine
+hello neural network
+machine learning is interesting
+neural networks can learn
+language models predict text
+language models learn patterns
